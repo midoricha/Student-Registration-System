@@ -1,37 +1,10 @@
 /*
- * Title : Assignment #1 - Student Registration System
- * Course : CST8234 C Language
- * @Author : <<<Danyu Wan(041060144)>>>
- * Lab Section : 012
- * Professor : Surbhi Bahri
- * Due date : 03 / 11 / 23
- * Submission date : 03 / 11 / 23
- *
- *
+ * Title : Student Registration System
+ * Language: C
+ * @Author : <<<Leah W>>>
  *
  * Demo malloc(), memset(), calloc() and free() in C, Ansi-style
- * Status:
- * Requirement #1: {Complete}
- * Requirement #2: {Complete}
- * Requirement #3: {Complete}
- * Requirement #4: {Complete}
- * Requirement #5: {Complete}
- * Requirement #6: {Complete}
- * Requirement #7: {Complete}
- * Requirement #8: {Complete}
- * Requirement #9: {Complete}
  */
-
-/*****************************************************************************
-Function Name: main
-Purpose: abjkndx,asm c.a
-Function in parameters: void
-Function out parameter: EXIT_SUCCESS
-Version: 1
-Author: Danyu Wan
-*****************************************************************************
-/
-*/
 
 #include "defs.h"
 #include "course.h"
